@@ -182,17 +182,6 @@
       "com_prof": ""
     },
     {
-      "id": "2ac4",
-      "codusuario": "1",
-      "codasignatura": "3",
-      "fecha": "2024-08-17",
-      "asistencia": false,
-      "justificacion": "tenia tuto",
-      "imagen_justificacion": "960a",
-      "justificado": true,
-      "com_prof": "Esta bien"
-    },
-    {
       "id": "5",
       "codusuario": "2",
       "codasignatura": "3",
