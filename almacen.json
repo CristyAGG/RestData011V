@@ -97,7 +97,7 @@
       "carrera": "Civica",
       "isactive": true,
       "asignaturas": "",
-      "imagen": "3170",
+      "imagen": "3171",
       "docente": true
     },    {
       "id": "5",
@@ -110,7 +110,7 @@
       "carrera": "Literatura",
       "isactive": true,
       "asignaturas": "",
-      "imagen": "3170",
+      "imagen": "3172",
       "docente": true
     }
   ],
