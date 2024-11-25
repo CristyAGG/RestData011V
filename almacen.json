@@ -85,6 +85,33 @@
       "asignaturas": "",
       "imagen": "3170",
       "docente": true
+    },
+    {
+      "id": "4",
+      "rut": "22222222-2",
+      "username": "genghiskhan",
+      "nombre": "Genghis",
+      "apellido": "Khan",
+      "email": "gkhan@mail.com",
+      "password": "p12345678",
+      "carrera": "Civica",
+      "isactive": true,
+      "asignaturas": "",
+      "imagen": "3170",
+      "docente": true
+    },    {
+      "id": "5",
+      "rut": "33333333-3",
+      "username": "mcervantes",
+      "nombre": "Miguel",
+      "apellido": "de Cervantes",
+      "email": "mcervantes@mail.com",
+      "password": "p12345678",
+      "carrera": "Literatura",
+      "isactive": true,
+      "asignaturas": "",
+      "imagen": "3170",
+      "docente": true
     }
   ],
   "asignatura": [
@@ -93,7 +120,7 @@
       "nombre": "Matematicas",
       "descripcion": "Clases de Matematicas",
       "sala": "D-025",
-      "profesor": "Aurelio Baldor",
+      "profesor": "Juan Machuca",
       "dia": [
         "Lunes",
         "Miercoles",
@@ -211,6 +238,18 @@
       "id": "918b",
       "asignaturas": [
         "3"
+      ]
+    },
+    {
+      "id": "5",
+      "asignaturas": [
+        "5"
+      ]
+    },
+    {
+      "id": "4",
+      "asignaturas": [
+        "8"
       ]
     }
   ]
